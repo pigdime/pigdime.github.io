@@ -1,19 +1,18 @@
-<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
-
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-  </g>
- </g>
- <g>
-  <title>Layer 1</title>
-  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
-  <ellipse stroke="#000" stroke-dasharray="2,2" ry="194.499997" rx="194.499997" id="svg_21" cy="200.000003" cx="290.000003" stroke-width="5" fill="#cccccc"/>
-  <ellipse ry="116.5" rx="164" id="svg_22" cy="200" cx="290" stroke-width="5" stroke="#6d4e4e" fill="#ffaaaa"/>
-  <ellipse ry="34.5" rx="34.5" id="svg_23" cy="198.5" cx="361" stroke-opacity="null" stroke-width="5" stroke="#000" fill="#996464"/>
-  <ellipse ry="34.5" rx="34.5" id="svg_24" cy="198.5" cx="216" stroke-opacity="null" stroke-width="5" stroke="#000" fill="#996464"/>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 4.1.465 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJ0aXRsZSI6IkRyYXdpbmciLCJkZXNjcmlwdGlvbiI6Im1hZGUgd2l0aCBTa2V0Y2hwYWQgLSBodHRwczovL3NrZXRjaC5pby9za2V0Y2hwYWQiLCJtZXRhZGF0YSI6e30sImNsaXAiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsInNoYWRvd0NvbG9yIjoicmdiYSgyNTUsMjU1LDI1NSwwLjE1KSIsInNoYWRvd0JsdXIiOjEsImxpbmVXaWR0aCI6Mn19LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJwbmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6InB4Iiwid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDEsInNjYWxlIjoxLCJwYWdlcyI6eyJsZW5ndGgiOjEsImRhdGEiOlt7IndpZHRoIjo0MDAsImhlaWdodCI6NDAxfV19fQ==" sketchjs:version="4.1.465">
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,-89.99999999999952,1)">
+	<g sketchjs:uid="1">
+		<rect id="canvas_background" x="-1" y="-1" width="582" height="402" sketchjs:uid="2" style="fill: none;"/>
+		<g id="canvasGrid" sketchjs:uid="3">
+			<rect width="13" height="13" sketchjs:uid="4" style="fill: gridpattern; stroke-width: 0;"/>
+		</g>
+	</g>
+	<g sketchjs:uid="5">
+		<ellipse id="svg_21" cx="290.000003" cy="200.000003" rx="194.499997" ry="194.499997" sketchjs:uid="6" style="fill: #cccccc; stroke: #000; stroke-width: 5; stroke-dasharray: 2,2;"/>
+		<ellipse id="svg_22" cx="290" cy="200" rx="164" ry="116.5" sketchjs:uid="7" style="fill: #ffaaaa; stroke: #6d4e4e; stroke-width: 5;"/>
+		<ellipse id="svg_23" cx="361" cy="198.5" rx="34.5" ry="34.5" sketchjs:uid="8" style="fill: #996464; stroke: #000; stroke-width: 5; stroke-opacity: NaN;"/>
+		<ellipse id="svg_24" cx="216" cy="198.5" rx="34.5" ry="34.5" sketchjs:uid="9" style="fill: #996464; stroke: #000; stroke-width: 5; stroke-opacity: NaN;"/>
+	</g>
+</g>
 </svg>
