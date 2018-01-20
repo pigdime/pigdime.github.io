@@ -1,6 +1,6 @@
 ## Welcome to Bacoin.io
 
-![Image](./pigdime.svg)
+![Image](./pigdime.png)
 
 Bacoin is coming soon. I hope you are ready.
 
